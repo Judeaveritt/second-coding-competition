@@ -1,6 +1,6 @@
 """
-Describe your program.
-First Last - Month Year
+
+Jude averitt - september 2026
 """
 
 def main() -> None:
@@ -10,7 +10,7 @@ def main() -> None:
 
 
   # processing
-  
+ 
   
   # output
 
